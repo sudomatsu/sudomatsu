@@ -1,7 +1,7 @@
 ### Holi, soy Matsu 👋
 
 
-- 🔭 Estoy trabajando actualmente en @MAG3-GG como Staff y Programador.
+- 🔭 Estoy trabajando actualmente en [@MAG3-GG](https://github.com/MAG3-GG) como Staff y Programador.
 - 🌱 Actualmente estoy aprendiendo LUA y MySQL para FiveM.
 - 👯 ¡Estoy buscando colaborar en todo lo que pueda!
 - 💬 ¡Pregúntame sobre lo que quieras!
