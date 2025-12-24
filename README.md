@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://cdn.discordapp.com/avatars/305502581667659779/149c2a63fa55b8427bcefa819ce3e9ec.png?size=256" width="120" height="120" />
-</p>
-
 <h1 align="center">hola soy maty 👋</h1>
 <h3 align="center">desarrollador full stack · ing. civil informática @ uai</h3>
 
